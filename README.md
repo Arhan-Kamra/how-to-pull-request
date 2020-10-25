@@ -7,4 +7,4 @@
 
 ***
 
-[mailto:arhankamra@gmail.com](ping me "click the link to email me personally")
+[email me](mailto:sathvikakamra@gmail.com "click the link to email me personally")
